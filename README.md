@@ -1,6 +1,6 @@
 # MIT License
 
-#### Copyright (C) 2018 **ISQA 8080 UNOMAHA.** 
+#### Copyright (C) 2018 **ISQA 8086 UNOMAHA.** 
 
 [MIT License](https://opensource.org/licenses/MIT)
 
