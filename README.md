@@ -4,6 +4,6 @@
 
 List of Files:
 
-* File1
-* File2
+1. File1
+2. File2
 
