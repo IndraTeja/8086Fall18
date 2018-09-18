@@ -1,4 +1,4 @@
-# Assignment 1 - Data Entry Analysis 
+# Data Entry Analysis - Assignment
 ----
 
 ## Part1 - Issues in Data Entry
