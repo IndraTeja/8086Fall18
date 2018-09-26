@@ -5,12 +5,12 @@ _3. The kind of decisions, interventions, or actions that analysis results could
 
 Based on the provided datasets, we divided the projects into two segments. Similarly, we would have two different analysis and their results. The two datasets are ‘Avian Monitoring Dataset’ and ‘Bald Eagle Monitoring’. These two datasets are not related directly and they are collected in different ways at OWC. Data is collected using a Sheet of paper with all attributes. The observer can be a volunteer or citizen science intern.
 ____
-#### Avian Monitoring :
+### Avian Monitoring :
 There are almost 60 species in this dataset with their time, weather at the time of encounter.
 
 **Data Entry:** Each observer goes around OWC and stops at designated spots for 15 minutes and collects data on each trail. There are four trails around OWC: Blue, Red, Purple, Green. Observer records the Bird species code and heard or seen on a sheet of paper manually. Then, they make manual entry into a Excel sheet. They collect attributes such as Date, Temperature, wind, Time, # of species, Heard/Seen, etc. 
 
-**Data Cleaning and Analysis:** There are few issues with the way data is stored and collected. There are few missing values and no standard codes used. This is due to manual entry or improper data management. So, this is a challenge to start our research questions. 
+**Data Cleaning and Analysis:** There are few issues with the way data is stored and collected. There are few missing values and no standard codes used. This is due to manual entry or improper data management. So, this is a challenge to start our research questions.  After working on data cleaning, we would make some recommendation to OWC data entry team to follow a standard template and use consistent units. Suppose sound distraction was having units 1-3 and works such as Train, Plane, etc. It was clarified later that it is due to rotating interns every year, there is no proper standard followed.
 
 **Research questions and Results for Avian Monitoring :**
 What are the relationships and possible comparisons between 1990’s vs 2010’s avian data.
